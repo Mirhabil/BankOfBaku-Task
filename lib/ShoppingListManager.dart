@@ -4,6 +4,8 @@ void main() {
   applicationLogic();
 }
 
+
+
 void onAddItemsClickedAction() {
   print("Enter item:");
   String item = stdin.readLineSync()!;
