@@ -1,16 +1,32 @@
-# your_app_name
+# 🧮 Calculator Input Echo in Dart (Console)
 
-A new Flutter project.
+A simple Dart console application that captures and echoes basic arithmetic input from the user, then evaluates and displays the result. Ideal for beginners learning Dart input/output and simple expression evaluation.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🧰 Features
 
-A few resources to get you started if this is your first Flutter project:
+- ✏️ Input any arithmetic expression (e.g., `5 + 3`)
+- 🔁 Program echoes the full expression
+- 📊 Calculates and displays the result
+- 🔢 Supports operations: `+`, `-`, `*`, `/`
+- 🛡️ Basic input validation and formatting
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📦 Requirements
+
+- Dart SDK (>=2.12.0)
+
+📥 [Install Dart](https://dart.dev/get-dart)
+
+---
+
+## 🚀 How to Run
+
+1. Clone or download the Dart file.
+2. Open terminal and navigate to the directory.
+3. Run the app using:
+
+```bash
+dart run calculator_input_echo.dart
