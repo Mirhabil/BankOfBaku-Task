@@ -1,16 +1,36 @@
-# your_app_name
+# 💳 Simple ATM Console App in Dart
 
-A new Flutter project.
+Welcome to the **Simple ATM Menu Application**, a beginner-friendly Dart project that simulates ATM functionality directly in your terminal! 🚀
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🧰 Features
 
-A few resources to get you started if this is your first Flutter project:
+✨ Interactive console menu with 4 main options:
+- 🔍 **Check Balance**
+- 💰 **Deposit Funds**
+- 💸 **Withdraw Funds**
+- ❌ **Exit Program**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+✅ User-friendly prompts  
+🔒 Basic input validation  
+⚙️ Real-time balance updates  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📦 Requirements
+
+- ✅ Dart SDK (>=2.12.0 <4.0.0)
+
+Install Dart from [dart.dev](https://dart.dev/get-dart) if you haven’t already.
+
+---
+
+## 🖥️ How to Run
+
+1. Clone this repository or download the `.dart` file.
+2. Open your terminal and navigate to the project directory.
+3. Run the app using:
+
+```bash
+dart run atm_menu.dart
