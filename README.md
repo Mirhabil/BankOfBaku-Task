@@ -1,16 +1,32 @@
-# your_app_name
+# 📏 Console Calculator App (Flutter)
 
-A new Flutter project.
+A simple console-based calculator application built with **Flutter (Dart)**. This app supports basic arithmetic operations and a **BMI (Body Mass Index) calculator** via terminal input.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- Console input/output using `dart:io`
+- Arithmetic operations:
+  - Addition
+  - Subtraction
+  - Multiplication
+  - Division
+- **BMI Calculator**:
+  - User inputs weight (kg) and height (m)
+  - BMI is calculated and categorized as:
+    - Underweight
+    - Normal
+    - Overweight
+    - Obese
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Getting Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Prerequisites
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter SDK](https://docs.flutter.dev/get-started/install)
+- Dart SDK
+- Terminal or Command Prompt
+
+### Run the App
+
+```bash
+dart run
