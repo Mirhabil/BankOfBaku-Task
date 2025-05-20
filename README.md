@@ -1,16 +1,34 @@
-# your_app_name
+# 🧮 Simple Tax Calculator in Dart (Console)
 
-A new Flutter project.
+A lightweight console application written in Dart that helps users calculate the tax they owe based on their income. Designed for educational purposes and beginner-friendly Dart practice.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🧰 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🏷️ User inputs their annual income
+- 🧾 Calculates tax using a fixed percentage rate (e.g., 15%)
+- 💼 Displays:
+  - Gross income
+  - Tax amount
+  - Net income after tax
+- 🛡️ Handles invalid or non-numeric inputs gracefully
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📦 Requirements
+
+- Dart SDK (>=2.12.0)
+
+Install it from the official site: [https://dart.dev/get-dart](https://dart.dev/get-dart)
+
+---
+
+## 🚀 How to Run
+
+1. Clone this repository or download the Dart file.
+2. Open your terminal and navigate to the folder.
+3. Run the program using:
+
+```bash
+dart run tax_calculator.dart
