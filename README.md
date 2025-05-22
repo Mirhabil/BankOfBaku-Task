@@ -1,16 +1,32 @@
-# your_app_name
+# 🎓 Student Gradebook - Mini Project
 
-A new Flutter project.
+A simple and interactive command-line application to manage student scores and determine their **Pass/Fail** status. This mini project is perfect for beginners learning how to use maps, user input, and conditionals.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📥 **Takes student names and scores** as input
+- 🗂️ **Stores data** in a `Map<String, int>`
+- ✅ **Evaluates pass/fail status** for each student
+- 📋 **Displays results** clearly and cleanly
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📊 Pass/Fail Criteria
+
+| Score        | Status   |
+|--------------|----------|
+| `50` or more | ✅ Pass   |
+| Below `50`   | ❌ Fail   |
+
+---
+
+## 🛠️ How to Run
+
+1. **Set up** your environment (Dart SDK recommended if using Dart).
+2. **Clone or download** the project.
+3. **Run** the file in your terminal:
+
+   ```bash
+   dart main.dart
