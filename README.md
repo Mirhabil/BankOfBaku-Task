@@ -29,4 +29,4 @@ A simple and interactive command-line application to manage student scores and d
 3. **Run** the file in your terminal:
 
    ```bash
-   dart main.dart
+   dart Student_GradeBook.dart
